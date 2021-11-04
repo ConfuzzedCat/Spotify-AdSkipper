@@ -8,24 +8,16 @@ namespace Spotify_AdSkipper
         static void Main(string[] args)
         {
             string _title;
-            string _name;
-            int _id;
             string _path;
             Process[] processes = Process.GetProcessesByName("spotify");
             while(true) 
             {
                 processes = Process.GetProcessesByName("spotify");
-
                 foreach (Process process in processes) {
                     _title = process.MainWindowTitle;
-                    _name = process.ProcessName;
-                    _id = process.Id;
                     _path = process.MainModule.FileName;
                     Console.WriteLine(_title);
-                    Console.WriteLine(_name);
-                    Console.WriteLine(_id);
                     Console.WriteLine(process.MainModule.FileName);
-
                     if (!String.IsNullOrEmpty(_title)) {
                         if (_title.ToLower() == "advertisement") {
                             process.CloseMainWindow();
@@ -34,8 +26,7 @@ namespace Spotify_AdSkipper
                         }
                     } 
                 }
-                Thread.Sleep(6000);
-                
+                Thread.Sleep(6000);                
             }
         }
     }
