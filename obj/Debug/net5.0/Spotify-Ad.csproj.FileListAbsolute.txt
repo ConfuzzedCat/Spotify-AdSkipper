@@ -1,0 +1,16 @@
+/home/cat/Documents/Spotify-Ad/bin/Debug/net5.0/Spotify-Ad
+/home/cat/Documents/Spotify-Ad/bin/Debug/net5.0/Spotify-Ad.deps.json
+/home/cat/Documents/Spotify-Ad/bin/Debug/net5.0/Spotify-Ad.runtimeconfig.json
+/home/cat/Documents/Spotify-Ad/bin/Debug/net5.0/Spotify-Ad.runtimeconfig.dev.json
+/home/cat/Documents/Spotify-Ad/bin/Debug/net5.0/Spotify-Ad.dll
+/home/cat/Documents/Spotify-Ad/bin/Debug/net5.0/ref/Spotify-Ad.dll
+/home/cat/Documents/Spotify-Ad/bin/Debug/net5.0/Spotify-Ad.pdb
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.csproj.AssemblyReference.cache
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.GeneratedMSBuildEditorConfig.editorconfig
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.AssemblyInfoInputs.cache
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.AssemblyInfo.cs
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.csproj.CoreCompileInputs.cache
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.dll
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/ref/Spotify-Ad.dll
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.pdb
+/home/cat/Documents/Spotify-Ad/obj/Debug/net5.0/Spotify-Ad.genruntimeconfig.cache
