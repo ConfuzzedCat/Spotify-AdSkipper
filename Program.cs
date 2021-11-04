@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System;
 using System.Threading;
-namespace Spotify_Ad
+namespace Spotify_AdSkipper
 {
     class Program
     {
